@@ -11,5 +11,5 @@ NN settings and savings in folder **ML_stuff**.<br>
 Trained model, Scene, Scripts and other relative files in folder **Assets/TapButtonExitRoom**.
 
 ## Videos in root directory. 
-- 0_EndOfTrainingProcess - record of final steps in learning process.
-- 1_FinalResult.mp4 - final result of Test Task.
+- **0_EndOfTrainingProcess.mp4** - record of final steps in learning process.
+- **1_FinalResult.mp4** - final result of Test Task.

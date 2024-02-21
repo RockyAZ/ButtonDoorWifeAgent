@@ -14,4 +14,5 @@ Trained model, Scene, Scripts and other relative files in folder **Assets/TapBut
 - **0_EndOfTrainingProcess.mp4** - record of final steps in learning process.
 - **1_FinalResult.mp4** - final result of Test Task.
 
-## Plot of learning measurements in root directory
+## Plot of learning measurements
+![Alt text](LearningMeasurementsPlot.png "Optional title")

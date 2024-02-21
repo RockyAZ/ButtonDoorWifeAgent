@@ -1,0 +1,65 @@
+{
+    "FindCubeWife": {
+        "checkpoints": [
+            {
+                "steps": 3499973,
+                "file_path": "results\\cw_09\\FindCubeWife\\FindCubeWife-3499973.onnx",
+                "reward": 1.414285727909633,
+                "creation_time": 1708455186.8695319,
+                "auxillary_file_paths": [
+                    "results\\cw_09\\FindCubeWife\\FindCubeWife-3499973.pt"
+                ]
+            },
+            {
+                "steps": 3999939,
+                "file_path": "results\\cw_09\\FindCubeWife\\FindCubeWife-3999939.onnx",
+                "reward": null,
+                "creation_time": 1708456191.0128634,
+                "auxillary_file_paths": [
+                    "results\\cw_09\\FindCubeWife\\FindCubeWife-3999939.pt"
+                ]
+            },
+            {
+                "steps": 4499900,
+                "file_path": "results\\cw_09\\FindCubeWife\\FindCubeWife-4499900.onnx",
+                "reward": 1.7000000029802322,
+                "creation_time": 1708457209.993159,
+                "auxillary_file_paths": [
+                    "results\\cw_09\\FindCubeWife\\FindCubeWife-4499900.pt"
+                ]
+            },
+            {
+                "steps": 4999935,
+                "file_path": "results\\cw_09\\FindCubeWife\\FindCubeWife-4999935.onnx",
+                "reward": 1.4142857364245824,
+                "creation_time": 1708458202.7757432,
+                "auxillary_file_paths": [
+                    "results\\cw_09\\FindCubeWife\\FindCubeWife-4999935.pt"
+                ]
+            },
+            {
+                "steps": 5182205,
+                "file_path": "results\\cw_09\\FindCubeWife\\FindCubeWife-5182205.onnx",
+                "reward": 1.7000000377496083,
+                "creation_time": 1708458586.871721,
+                "auxillary_file_paths": [
+                    "results\\cw_09\\FindCubeWife\\FindCubeWife-5182205.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5182205,
+            "file_path": "results\\cw_09\\FindCubeWife.onnx",
+            "reward": 1.7000000377496083,
+            "creation_time": 1708458586.871721,
+            "auxillary_file_paths": [
+                "results\\cw_09\\FindCubeWife\\FindCubeWife-5182205.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

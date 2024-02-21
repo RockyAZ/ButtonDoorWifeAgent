@@ -1,0 +1,38 @@
+{
+    "FindCubeWife": {
+        "checkpoints": [
+            {
+                "steps": 499872,
+                "file_path": "results\\cw_08\\FindCubeWife\\FindCubeWife-499872.onnx",
+                "reward": 14.904804825782776,
+                "creation_time": 1708447857.531459,
+                "auxillary_file_paths": [
+                    "results\\cw_08\\FindCubeWife\\FindCubeWife-499872.pt"
+                ]
+            },
+            {
+                "steps": 519452,
+                "file_path": "results\\cw_08\\FindCubeWife\\FindCubeWife-519452.onnx",
+                "reward": 1.0033797957003117,
+                "creation_time": 1708447949.3120854,
+                "auxillary_file_paths": [
+                    "results\\cw_08\\FindCubeWife\\FindCubeWife-519452.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 519452,
+            "file_path": "results\\cw_08\\FindCubeWife.onnx",
+            "reward": 1.0033797957003117,
+            "creation_time": 1708447949.3120854,
+            "auxillary_file_paths": [
+                "results\\cw_08\\FindCubeWife\\FindCubeWife-519452.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

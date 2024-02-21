@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1708441290",
+        "python_version": "3.7.16 (default, Jan 17 2023, 16:06:28) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\Anaconda\\envs\\ml-agents-1.0\\Scripts\\mlagents-learn FindCubeWife_config.yaml --run-id cw_04",
+        "mlagents_version": "0.29.0",
+        "mlagents_envs_version": "0.29.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.13.1+cpu",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1708441309"
+    },
+    "total": 18.8477563,
+    "count": 1,
+    "self": 0.020869900000000996,
+    "children": {
+        "run_training.setup": {
+            "total": 0.0942122999999997,
+            "count": 1,
+            "self": 0.0942122999999997
+        },
+        "TrainerController.start_learning": {
+            "total": 18.7326741,
+            "count": 1,
+            "self": 0.0003504000000020824,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 18.7323111,
+                    "count": 1,
+                    "self": 18.7323111
+                },
+                "trainer_threads": {
+                    "total": 1.399999998596968e-06,
+                    "count": 1,
+                    "self": 1.399999998596968e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.1199999999433885e-05,
+                    "count": 1,
+                    "self": 1.1199999999433885e-05
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "FindCubeWife": {
+        "checkpoints": [
+            {
+                "steps": 36084,
+                "file_path": "results\\cw_07\\FindCubeWife\\FindCubeWife-36084.onnx",
+                "reward": null,
+                "creation_time": 1708446465.7741938,
+                "auxillary_file_paths": [
+                    "results\\cw_07\\FindCubeWife\\FindCubeWife-36084.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 36084,
+            "file_path": "results\\cw_07\\FindCubeWife.onnx",
+            "reward": null,
+            "creation_time": 1708446465.7741938,
+            "auxillary_file_paths": [
+                "results\\cw_07\\FindCubeWife\\FindCubeWife-36084.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

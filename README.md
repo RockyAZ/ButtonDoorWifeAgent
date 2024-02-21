@@ -7,8 +7,8 @@ Time spend summary:
 - Monday-Tuesday -> Write environment logic, tweak observations and rewards, adjust model weights and settings.
 
 ## Files
-NN settings and savings in folder ML_stuff.<br>
-Trained model, Scene, Scripts and other relative files in folder Assets/TapButtonExitRoom.
+NN settings and savings in folder **ML_stuff**.<br>
+Trained model, Scene, Scripts and other relative files in folder **Assets/TapButtonExitRoom**.
 
 ## Videos in root directory. 
 - 0_EndOfTrainingProcess - record of final steps in learning process.

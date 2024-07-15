@@ -1,0 +1,18 @@
+activate ml-agents-1.0
+
+mlagents-learn E:\Unity\UnityTestovoeML\ML_stuff\trainer_config.yaml --run-id hb_03
+mlagents-learn E:\Unity\UnityTestovoeML\ML_stuff\trainer_config.yaml --initialize-from=hb_03
+
+cd /d E:\
+cd /d E:\Unity\UnityTestovoeML\Assets\LegsPrototype\LearningFiles
+
+tensorboard --logdir results
+
+mlagents-learn E:\Unity\UnityTestovoeML\Assets\LegsPrototype\LearningFiles\WalkingAgent_config.yaml --run-id walker_00
+mlagents-learn E:\Unity\UnityTestovoeML\Assets\LegsPrototype\LearningFiles\WalkingAgent_config.yaml --initialize-from=walker_01
+
+03 - learned how to standing still for long
+04 - start learning walk again
+
+
+Notes about joints

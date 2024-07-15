@@ -1,0 +1,38 @@
+{
+    "WalkerBehaviour": {
+        "checkpoints": [
+            {
+                "steps": 499959,
+                "file_path": "results\\walker_02\\WalkerBehaviour\\WalkerBehaviour-499959.onnx",
+                "reward": 0.9295618467471178,
+                "creation_time": 1709803626.254639,
+                "auxillary_file_paths": [
+                    "results\\walker_02\\WalkerBehaviour\\WalkerBehaviour-499959.pt"
+                ]
+            },
+            {
+                "steps": 575753,
+                "file_path": "results\\walker_02\\WalkerBehaviour\\WalkerBehaviour-575753.onnx",
+                "reward": 0.7872557542894197,
+                "creation_time": 1709804040.2671318,
+                "auxillary_file_paths": [
+                    "results\\walker_02\\WalkerBehaviour\\WalkerBehaviour-575753.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 575753,
+            "file_path": "results\\walker_02\\WalkerBehaviour.onnx",
+            "reward": 0.7872557542894197,
+            "creation_time": 1709804040.2671318,
+            "auxillary_file_paths": [
+                "results\\walker_02\\WalkerBehaviour\\WalkerBehaviour-575753.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

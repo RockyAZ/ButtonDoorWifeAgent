@@ -419,6 +419,12 @@ MonoBehaviour:
   _playgroundController: {fileID: 0}
   _jumpPower: 7
   _walkSpeed: 1
+  _trail: {fileID: 0}
+  _jumpParticle: {fileID: 0}
+  _wifeParticle: {fileID: 0}
+  _additionalButtonDirectionReward: 0
+  _additionalWifeDirectionReward: 0
+  _additionalEachStepNegativeReward: 0
 --- !u!65 &3465406248663412215
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -453,7 +459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DecisionPeriod: 5
-  TakeActionsBetweenDecisions: 1
+  TakeActionsBetweenDecisions: 0
 --- !u!114 &4094970846209044337
 MonoBehaviour:
   m_ObjectHideFlags: 0

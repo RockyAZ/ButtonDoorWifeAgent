@@ -1,0 +1,65 @@
+{
+    "WalkerBehaviour": {
+        "checkpoints": [
+            {
+                "steps": 5499992,
+                "file_path": "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-5499992.onnx",
+                "reward": 70.78908221940605,
+                "creation_time": 1709832406.21406,
+                "auxillary_file_paths": [
+                    "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-5499992.pt"
+                ]
+            },
+            {
+                "steps": 5999940,
+                "file_path": "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-5999940.onnx",
+                "reward": 64.47783958728496,
+                "creation_time": 1709833324.0869846,
+                "auxillary_file_paths": [
+                    "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-5999940.pt"
+                ]
+            },
+            {
+                "steps": 6499869,
+                "file_path": "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-6499869.onnx",
+                "reward": 80.73830218522446,
+                "creation_time": 1709834529.6363618,
+                "auxillary_file_paths": [
+                    "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-6499869.pt"
+                ]
+            },
+            {
+                "steps": 6999804,
+                "file_path": "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-6999804.onnx",
+                "reward": 85.87236506967659,
+                "creation_time": 1709836454.7117507,
+                "auxillary_file_paths": [
+                    "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-6999804.pt"
+                ]
+            },
+            {
+                "steps": 7061649,
+                "file_path": "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-7061649.onnx",
+                "reward": 71.15366761671389,
+                "creation_time": 1709836704.5149138,
+                "auxillary_file_paths": [
+                    "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-7061649.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7061649,
+            "file_path": "results\\walker_04\\WalkerBehaviour.onnx",
+            "reward": 71.15366761671389,
+            "creation_time": 1709836704.5149138,
+            "auxillary_file_paths": [
+                "results\\walker_04\\WalkerBehaviour\\WalkerBehaviour-7061649.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

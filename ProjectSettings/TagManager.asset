@@ -11,6 +11,9 @@ TagManager:
   - button_stand
   - button
   - wife
+  - Walker
+  - Ground
+  - Target
   layers:
   - Default
   - TransparentFX
